@@ -24,14 +24,14 @@ This repository demonstrates a complete ML pipeline, from raw text preprocessing
 4. **Evaluation:** * Analyzing the confusion matrix and classification reports to ensure balanced detection across different personality classes.
 
 ## 📊 Insights & Presentation
-The technical implementation is paired with a comprehensive presentation (`pdf_project_ML_Hassan_Alomari.pdf`) that bridges the gap between data science and behavioral psychology. It covers the problem statement, data distribution, model selection rationale, and final conclusions.
+The technical implementation is paired with a comprehensive presentation (`Project.pdf`) that bridges the gap between data science and behavioral psychology. It covers the problem statement, data distribution, model selection rationale, and final conclusions.
 
 ## 📂 Repository Structure
 For a clean and professional setup, the repository is organized as follows:
 
 ```text
 ├── notebooks/
-│   └── project_ML_Hassan_Alomari.ipynb    # Main notebook containing the NLP pipeline and ML models
+│   └── model_code.ipynb    # Main notebook containing the NLP pipeline and ML models
 ├── presentations/
-│   └── pdf_project_ML_Hassan_Alomari.pdf  # Project slides and insights
+│   └── Project.pdf  # Project slides and insights
 └── README.md                              # Project documentation
