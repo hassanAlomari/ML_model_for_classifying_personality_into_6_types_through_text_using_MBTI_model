@@ -30,8 +30,6 @@ The technical implementation is paired with a comprehensive presentation (`pdf_p
 For a clean and professional setup, the repository is organized as follows:
 
 ```text
-├── data/
-│   └── (Insert your dataset file here, e.g., personality_data.csv)
 ├── notebooks/
 │   └── project_ML_Hassan_Alomari.ipynb    # Main notebook containing the NLP pipeline and ML models
 ├── presentations/
